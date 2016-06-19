@@ -2,7 +2,7 @@
 <title>Hello World</title>
 <style>
 p {
-color: red ;
+color: #7878c0 ;
 }
 </style>
 </head>
