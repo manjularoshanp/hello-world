@@ -1,5 +1,9 @@
 <head>
 <title>Hello World</title>
+<style>
+p {
+color: red ;
+</style>
 </head>
 #hello-world<br />Sri Lanka
 <h2>This is my first project</h2>
